@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58d90804440bbe945a7d49379a31b64d, type: 3}
+  m_Name: Scene2_object
+  m_EditorClassIdentifier: 
+  NextScene_name: scene_2
+  fadeOut: 1
+  fadeOut_duration: 1
+  fadeOut_color: {r: 0, g: 0, b: 0, a: 0}
+  fadeIn: 1
+  fadeIn_duration: 1
+  fadeIn_color: {r: 0, g: 0, b: 0, a: 0}
+  fade_images:
+  - {fileID: 605713866776012936, guid: 82695a5d0c979814281e7630a80bdeee, type: 3}
